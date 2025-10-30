@@ -1,4 +1,3 @@
-README
 🧠 Brain Tumor Classification using Deep Learning & Streamlit
 An end-to-end Deep Learning project that classifies brain MRI images into four tumor types — built with TensorFlow, Keras, and Streamlit.
 This project demonstrates both model development (CNN + Transfer Learning) and interactive deployment as a web app.
